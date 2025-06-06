@@ -74,3 +74,4 @@ Minesweeper — это реализация классической логич�
   ```cmd
   minesweeper.exe
   ```
+![](https://github.com/Zalmudin/lab1File/blob/main/photo_2025-06-07_00-33-46.jpg?raw=true)
